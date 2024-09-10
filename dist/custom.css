@@ -1,0 +1,15 @@
+.horizontal-container {
+    display: flex !important;
+    justify-content: space-around !important;
+}
+
+.portrait-title {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+.portrait {
+    margin: 0 !important;
+    max-height: 500px !important;
+}
