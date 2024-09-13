@@ -13,3 +13,8 @@
     margin: 0 !important;
     max-height: 500px !important;
 }
+
+.left-centered {
+    display: inline-block;
+    text-align: left;
+}
